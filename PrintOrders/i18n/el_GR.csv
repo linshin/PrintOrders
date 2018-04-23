@@ -1,0 +1,10 @@
+"Products","Προϊόν",module,Stonewave_PrintOrders
+"Qty","Ποσότητα",module,Stonewave_PrintOrders
+"Price","Τιμή",module,Stonewave_PrintOrders
+"Tax","Φόρος",module,Stonewave_PrintOrders
+"Subtotal","Μερικό Σύνολο",module,Stonewave_PrintOrders
+"Order # ","Παραγγελία #",module,Stonewave_PrintOrders
+"Order Date:  ","Hμ/νία Παραγγελίας: ",module,Stonewave_PrintOrders
+"Payment Method:","Τρόπος Πληρωμής: ",module,Stonewave_PrintOrders
+"Ship to:","Αποστολή προς:",module,Stonewave_PrintOrders
+"Sold to:","Πουλήθηκε:",module,Stonewave_PrintOrders

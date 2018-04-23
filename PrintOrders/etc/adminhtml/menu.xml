@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Stonewave_PrintOrders::print_orders" 
+        	title="Print Orders" 
+        	module="Stonewave_PrintOrders" 
+        	sortOrder="20" 
+        	action="printorders/printorders/index" 
+        	resource="Stonewave_PrintOrders::print_orders" 
+        	parent="Stonewave_Stockists::stockists"/>
+    </menu>
+</config>
